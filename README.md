@@ -1,6 +1,6 @@
 # Xamarin.FuelSlip
 
-Xamarin.FuelSlip is an application developed to help ease the task of recording fuel slips and claiming back from company expenses. The application can be used on a **personal, bunsiness or employee level**. The application currently uses an local sqlite database.
+Xamarin.FuelSlip is an application developed to help ease the task of recording fuel slips and claiming back from company expenses. The application can be used on a **personal, bunsiness or employee level**. The application currently uses an local sqlite database. The application will also require the user to sign for the fuel slip.
 
 ## Setup
 
