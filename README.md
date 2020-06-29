@@ -4,8 +4,8 @@ Xamarin.FuelSlip is an application developed to help ease the task of recording 
 
 ## Setup
 
--	There is no setup additional setup required. Clone the repository and run the project in Visual Studio. I have developed an API and corresponding SQL server which 
-  has been deployed on Azure Studios. Please request these files from andres@easpe.co.za if you require a cloud based application.
+There is no setup additional setup required. Clone the repository and run the project in Visual Studio. I have developed an API and corresponding SQL server which 
+has been deployed on Azure Studios. Please request these files from andres@easpe.co.za if you require a cloud based application.
 
 ## Images
 
